@@ -1,5 +1,5 @@
-:mortar_board:  majored in Bio Medical Engineering
-:black_nib: Learning Python and DeepLearning 
+:mortar_board:  majored in Bio Medical Engineering    
+:pencil2: Learning Python and DeepLearning 
 <!--
 **OKJINHAE/OKJINHAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
